@@ -1,0 +1,13 @@
+{
+    "name": "gmr/consultor-os",
+    "description": "Sistema de Gestão e Consultoria de Consórcios",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "dompdf/dompdf": "^3.1"
+    }
+}
